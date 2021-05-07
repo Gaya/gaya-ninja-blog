@@ -20,7 +20,7 @@
     "replace-in-file": "^5.0.2",
     "typogr": "^0.6.8",
     "uglify-js": "^3.7.7",
-    "underscore": "^1.9.2",
+    "underscore": "^1.12.1",
     "urlencode": "^1.1.0",
     "wintersmith": "^2.1.0",
     "wintersmith-nunjucks": "^2.0.0"
